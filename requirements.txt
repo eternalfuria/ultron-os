@@ -1,0 +1,8 @@
+openai
+pyttsx3
+speechrecognition
+flask
+chromadb
+pyautogui
+opencv-python
+python-dotenv
